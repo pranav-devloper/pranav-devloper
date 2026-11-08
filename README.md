@@ -25,7 +25,7 @@ Here are some of the projects I've built while learning:
 
 | Project          | Description                       | Technologies          |
 | ---------------- | --------------------------------- | --------------------- |
-| 📌 **Project 1** | Short description of your project | HTML, CSS, JavaScript |
+| 📌 **Project 1** | My  Portfolio website https://pranav-devloper.github.io/Portfolio/ | HTML, CSS, JavaScript |
 | 📌 **Project 2** | Short description of your project | Python                |
 | 📌 **Project 3** | Short description of your project | React, JavaScript     |
 | 📌 **Project 4** | Short description of your project | Java / C++ / Python   |
