@@ -23,7 +23,7 @@ I use GitHub to document my learning journey, experiment with new technologies, 
 
 Here are some of the projects I've built while learning:
 
-| Project          | Description                                                                         | Technologies          |
+|     Project          | Description                                                                         | Technologies          |
 | ---------------- | ------------------------------------------------------------------------------------| --------------------- |
 |  **Project 1**   | My Portfolio website:- https://pranav-devloper.github.io/Portfolio/                 | HTML, CSS, JavaScript |
 |  **Project 2**   | My Data Visualization Project t20 world cup 2024 visualization in jupyter notebook. | Python                |
