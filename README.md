@@ -23,16 +23,16 @@ I use GitHub to document my learning journey, experiment with new technologies, 
 
 Here are some of the projects I've built while learning:
 
-|     Project          | Description                                                                         | Technologies          |
-| ---------------- | ------------------------------------------------------------------------------------| --------------------- |
-|  **Project 1**   | My Portfolio website:- https://pranav-devloper.github.io/Portfolio/                 | HTML, CSS, JavaScript |
-|  **Project 2**   | My Data Visualization Project t20 world cup 2024 visualization in jupyter notebook. | Python                |
-|  **Project 3**   | Manufactory ERP project i am done individually in Node JS and React framework.      | Java script(Node JS)  |
-|  **Project 4**   | Short description of your project                                                   | Java / C++ / Python   |
-|  **Project 5**   | ODOO Hackathon Team  Project Globtrotter for Personalized Multi-City Travel Planning & Budget Management Platform. | Full Stack            |
-|  **Project 6**   | Machine learning related Movie-recommender repository and project was Movie_recommender_system | Machine Learning    |
-|  **Project 7**   | Artificial Intelligence related Projects AI-World repository.                       | AI-ML    |
-|  **Project 8**   |  |     |
+|     Project  | Description                                                                         | Technologies          |
+| ------------ | ------------------------------------------------------------------------------------| --------------------- |
+|  Project 1   | My Portfolio website:- https://pranav-devloper.github.io/Portfolio/                 | HTML, CSS, JavaScript |
+|  Project 2   | My Data Visualization Project t20 world cup 2024 visualization in jupyter notebook. | Python                |
+|  Project 3   | Manufactory ERP project i am done individually in Node JS and React framework.      | Java script(Node JS)  |
+|  Project 4   | Short description of your project                                                   | Java / C++ / Python   |
+|  Project 5   | ODOO Hackathon Team  Project Globtrotter for Personalized Multi-City Travel Planning & Budget Management Platform. | Full Stack            |
+|  Project 6   | Machine learning related Movie-recommender repository and project was Movie_recommender_system | Machine Learning    |
+|  Project 7   | Artificial Intelligence related Projects AI-World repository.                       | AI-ML    |
+|  Project 8   |  |     |
 
 > 💡 Check out my repositories to see my latest projects and experiments.
 
