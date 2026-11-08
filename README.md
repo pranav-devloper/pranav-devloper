@@ -25,11 +25,14 @@ Here are some of the projects I've built while learning:
 
 | Project          | Description                       | Technologies          |
 | ---------------- | --------------------------------- | --------------------- |
-| 📌 **Project 1** | My  Portfolio website https://pranav-devloper.github.io/Portfolio/ | HTML, CSS, JavaScript |
-| 📌 **Project 2** | Short description of your project | Python                |
-| 📌 **Project 3** | Short description of your project | React, JavaScript     |
+| 📌 **Project 1** | My Portfolio website:- https://pranav-devloper.github.io/Portfolio/ | HTML, CSS, JavaScript |
+| 📌 **Project 2** | My Data Visualization Project t20 world cup 2024 visualization in jupyter notebook. | Python                |
+| 📌 **Project 3** | Manufactory ERP project i am done individually in Node JS and React framework. | Java script(Node JS)     |
 | 📌 **Project 4** | Short description of your project | Java / C++ / Python   |
-| 📌 **Project 5** | Short description of your project | Full Stack            |
+| 📌 **Project 5** | ODOO Hackathon Team  Project Globtrotter for Personalized Multi-City Travel Planning & Budget Management Platform. | Full Stack            |
+| 📌 **Project 6** | Machine learning related Movie-recommender repository and project was Movie_recommender_system | Machine Learning    |
+| 📌 **Project 7** | Artificial Intelligence related Projects AI-World repository | AI-ML    |
+| 📌 **Project 8** |  |     |
 
 > 💡 Check out my repositories to see my latest projects and experiments.
 
@@ -111,13 +114,13 @@ Every project is an opportunity to learn something new.
 I'm always interested in learning, collaborating, and connecting with other developers.
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/pranav-devloper">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/pranav-champaneri-320b17328">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:pranavchapaneri@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
